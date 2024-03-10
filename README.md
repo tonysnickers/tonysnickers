@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Antoine mendy</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
 
-- 🔭 I’m currently working on [claps](https://claps-860.herokuapp.com/)
+- 🔭 I’m currently working on [Institut Moula](https://institut-moula.com/)
 
-- 🌱 I’m have just completed the training at the wagon **i have learned Ruby and Ruby on rails and Javascript**
+- About me:
 
-- 💬 Ask me about **After un want to learn Javascript and React**
+I am a frontend developer passionate about the art of creating fluid and engaging user interfaces using JavaScript and its flagship library, React.js. With a strong background in other technologies such as Ruby, I have gained a diversified perspective that enriches my development approaches.
+
+- My skills:
+
+Advanced proficiency in HTML, CSS, and JavaScript
+In-depth expertise in the React.js library
+Understanding of fundamental frontend development principles, including responsive design and accessibility concepts
+Experience using Ruby for backend development and building dynamic web applications
 
 - 📫 How to reach me **antoine.mendy@hotmail.fr**
 
